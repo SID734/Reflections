@@ -22,3 +22,10 @@ After merging two branches together, we get all the commits in both branches in 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic Merging: 
+	Pros: We don't need to give merge command again and again	
+	Cons: Less control over working tree
+Manual Merging:
+	Pros: Better control over working tree
+	Cons: We have to give merge command wherever needed on proper time without forgetting
+	
