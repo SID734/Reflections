@@ -18,6 +18,7 @@ Diagrams helps to trace back the branches we made manually.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+After merging two branches together, we get all the commits in both branches in final result which are sorted by their timestamp. It will be east to trace the paths by drawing the same in our diagrams as well.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
