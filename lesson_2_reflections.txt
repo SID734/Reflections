@@ -11,8 +11,10 @@ I will use staging area to store all files which are logically related to make s
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+We can try out various versions of project and save them as history using branching at specific stage of our working tree which we actually don't want to share with users.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams helps to trace back the branches we made manually.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
