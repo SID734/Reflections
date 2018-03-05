@@ -17,8 +17,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
-
+    If we are going off-line for a certain amount of time then we can take a copy of last known history from remote repository so that we can make desired changes into it even when we are off-line and can commit or push those changes later when we come online.
+	
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
