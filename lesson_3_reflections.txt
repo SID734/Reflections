@@ -22,7 +22,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    We might have used a social media applications like whatsapp or hangouts to communicate or share the work and reviews but it would be difficult since we would have required to send files each time. So it will be good to use git or github since we can conneting and managing our repositories for work simultaneously along with interactions and reviews. It is simple and effective. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
